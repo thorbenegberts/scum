@@ -1,3 +1,3 @@
-# SCUMIFEST
+# Fragile Manifesto
 
-…
+
