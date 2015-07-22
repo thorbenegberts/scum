@@ -18,7 +18,7 @@ the right, we micromanage the items on the left more.
 
 We follow these principles:
 
-Our highest priority is to surprise the customer with software that matured gracyfully in our advanced processes with a big bang release.
+Our highest priority is to surprise the customer with software that matured gracefully in our advanced processes with a big bang release.
 
 Introduce changing requirements, even without asking the customer. Fragile processes harness change to fix the unreasonable requirements of the customer.
 
