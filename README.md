@@ -3,8 +3,11 @@
 We are uncovering better ways of developing software by letting other people do it and telling them how it's done. Through this work we have come to micromanage:
 
 **Individuals and interactions** over processes and tools
+
 **Working software** over comprehensive documentation
+
 **Customer collaboration** over contract negotiation
+
 **Responding to change** over following a plan
 
 That is, while there is more micromanagement in the items on
